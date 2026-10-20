@@ -1,0 +1,9 @@
+# 秘密情報（Bot のトークン）
+.env
+
+# 実行時にできるもの
+.venv/
+__pycache__/
+jobs/
+prints.db
+bot.log
